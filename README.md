@@ -2,6 +2,7 @@
 
 
 KEY HIGHTLIGHTS :-
+
 1.Department & Gender: The Research & Development department has the highest total count of employees (961), while Sales and Human Resources have 446 and 63 employees respectively.
 Among genders, there are 882 male employees and 588 female employees. Attrition rates vary across departments and genders.
 
