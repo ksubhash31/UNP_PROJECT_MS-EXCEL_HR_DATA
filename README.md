@@ -17,7 +17,7 @@ Job satisfaction levels also influence attrition rates, with employees reporting
 
 
 
-PDF LIMK : https://drive.google.com/file/d/1GOFNk3B1o2A4NbG3NXmYt_LdKk_97Ms5/view?usp=drive_link 
+PDF LInK : https://drive.google.com/file/d/1GOFNk3B1o2A4NbG3NXmYt_LdKk_97Ms5/view?usp=drive_link 
 
 EXCEL LINK : https://docs.google.com/spreadsheets/d/1A1UrIydqcol8unRfBBZxtdxnffxRuNoL/edit?usp=drive_link&ouid=108771566354590427401&rtpof=true&sd=true
 
